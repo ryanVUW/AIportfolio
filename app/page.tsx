@@ -12,10 +12,14 @@ import { Iteration6Contact } from "@/components/component/iteration6-contact";
 import { Iteration7RealHero } from "@/components/component/iteration7-real-hero";
 import { Iteration7NewGenProjects } from "@/components/component/iteration7-new-gen-projects";
 import { Iteration7AboutMe } from "@/components/component/iteration7-about-me";
+import { Iteration7Projects } from "@/components/component/iteration7-projects";
+
+import { Iteration6ProjectsModified } from "@/components/component/iteration6-projects-modified";
 
 export default function Home() {
   return (
-    <><Iteration7RealHero /><Iteration7NewGenProjects /><Iteration7AboutMe /></>
+
+    <><br></br><><Iteration6Hero /><Iteration6ProjectsModified /><Iteration6AboutMe /><Iteration6Contact /></></>
         
 
   );

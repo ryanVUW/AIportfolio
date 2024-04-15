@@ -28,10 +28,10 @@ import { CardContent, Card } from "@/components/ui/card"
 export function Iteration7Projects() {
   return (
     <section className="w-full py-6">
-      <div className="container grid items-center gap-4 px-4 text-center md:px-6 lg:gap-10">
+      <div className="container mx-auto grid items-center gap-4 px-4 text-center md:px-6 lg:gap-10"> 
         <div className="space-y-3 text-center">
-          <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl">Our Projects</h2>
-          <p className="mx-auto max-w-[600px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
+          <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl">My Projects</h2> 
+          <p className="mx-auto max-w-[600px] text-gray-500 md:text-lg/relaxed lg:text-base/relaxed xl:text-lg/relaxed dark:text-gray-400">
             Open source projects we maintain and contribute to.
           </p>
         </div>

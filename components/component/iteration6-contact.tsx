@@ -34,9 +34,9 @@ export function Iteration6Contact() {
       <div className="container mx-auto grid max-w-3xl px-4 gap-10 md:px-6 place-content-center">
         <div className="space-y-4 text-center">
           <div className="space-y-2">
-            <h2 className="text-3xl font-bold">Contact Sales</h2> 
-            <p className="text-gray-500 dark:text-gray-400"> 
-              Fill out the form below and we'll get back to you as soon as possible.
+            <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl">Contact Me</h2> 
+            <p className="text-gray-500 md:text-lg/relaxed xl:text-lg/relaxed dark:text-gray-400"> 
+              Fill out the form below and I'll get back to you as soon as possible.
             </p>
           </div>
           <div className="space-y-4">

@@ -28,7 +28,7 @@ export function Iteration6AboutMe() {
     <section className="w-full py-12 md:py-24 lg:py-32">
       <div className="container mx-auto flex flex-col items-center justify-center gap-4 px-4 md:gap-8 md:px-6"> 
         <div className="space-y-3 text-center">
-          <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">About Me</h2> 
+          <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl">About Me</h2> 
           <p className="text-gray-500 md:text-lg/relaxed xl:text-lg/relaxed dark:text-gray-400"> 
             I’m a passionate designer who loves creating beautiful and user-friendly interfaces.
           </p>
@@ -46,7 +46,7 @@ export function Iteration6AboutMe() {
           </div>
           <div className="space-y-4"> 
             <div className="space-y-2 text-center md:text-left">
-              <h3 className="text-2xl font-bold tracking-tight">Jane Doe</h3> 
+              <h3 className="text-2xl font-bold tracking-tight">Ryan Skelton</h3> 
               <p className="text-sm text-gray-500 tracking-wide dark:text-gray-400">UX Designer</p>
             </div>
             <div className="space-y-4 md:space-y-6">

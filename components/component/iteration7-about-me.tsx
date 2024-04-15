@@ -39,7 +39,7 @@ export function Iteration7AboutMe() {
           />
           <div className="space-y-4">
             <div className="space-y-2">
-              <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl">Jane Doe</h1>
+              <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl">Ryan Skelton</h1>
               <p className="text-gray-500 dark:text-gray-400">UI/UX Designer</p>
             </div>
             <div className="space-y-4">
